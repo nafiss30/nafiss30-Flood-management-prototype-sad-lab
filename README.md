@@ -23,4 +23,4 @@ The proposed architecture supports role-based access, authentication, API Gatewa
 
 FloodGuard aims to make flood response faster, more organized, transparent, and data-driven by connecting rescue, shelter, relief, donations, volunteers, and emergency management within one platform.
 
-#FloodGuard #SoftwareEngineering #SystemDesign #UIUX #Figma #UML #DisasterManagement #EmergencyResponse #AI
+
